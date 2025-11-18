@@ -1,2 +1,1 @@
-# Swig
-gy-Banglore
+# Swiggy-Banglore
