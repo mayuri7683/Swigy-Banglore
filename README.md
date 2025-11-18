@@ -1,1 +1,2 @@
 # Swiggy-Banglore
+Analyzed 1,000+ Swiggy restaurant outlets in Bangalore using Python to identify rating patterns, pricing trends, and location-based insights. Performed data cleaning, handled missing values, standardized cost data, and converted text fields to numerical formats. Conducted exploratory data analysis (EDA) to compare key food hubs like Koramangala, HSR Layout, and BTM Layout through visualizations. Delivered insights on rating distribution, affordability trends, and area-wise differences to support business decision-making.
